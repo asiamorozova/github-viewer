@@ -11,13 +11,16 @@ exports[`User matches a snapshot 1`] = `
       asiamorozova
     </p>
     <p>
+      Followers:
       1
     </p>
     <p>
+      Following:
       1
-       
     </p>
-    <p />
+    <p>
+      https://github.com/asiamorozova
+    </p>
   </figcaption>
 </figure>
 `;

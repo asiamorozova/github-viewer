@@ -6,7 +6,7 @@ const User = ({ login, followers_url, following_url, url, avatar_url }) => (
     <img src={avatar_url} alt={login}/>
     <figcaption>
       <p>{login}</p>
-      <p>Followes:{followers_url}</p>
+      <p>Followers:{followers_url}</p>
       <p>Following:{following_url}</p>
       <p>{url}</p>
     </figcaption>
